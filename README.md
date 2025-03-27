@@ -1,5 +1,6 @@
-# DNA WTA Validation Assay Guide
+*Pleaese refer to the PDF guide First*
 
+# DNA WTA Validation Assay Guide
 This guide provides step-by-step instructions for running two key protocols involved in the validation of DNA WTA (Weighted Transform Arithmetic) computers using Opentrons OT-2. The two protocols described are for:
 
     1. Individual Memory Validation Assays (SDR)
